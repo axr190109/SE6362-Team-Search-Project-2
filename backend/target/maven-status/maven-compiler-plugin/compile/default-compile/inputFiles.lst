@@ -1,0 +1,11 @@
+C:\Users\raven\Desktop\MS_SE_Courses_Fall2024\SE 6362\Project2\Cyberminer\backend\src\main\java\com\cyberminer\config\CorsConfig.java
+C:\Users\raven\Desktop\MS_SE_Courses_Fall2024\SE 6362\Project2\Cyberminer\backend\src\main\java\com\cyberminer\controller\SearchController.java
+C:\Users\raven\Desktop\MS_SE_Courses_Fall2024\SE 6362\Project2\Cyberminer\backend\src\main\java\com\cyberminer\CyberminerApplication.java
+C:\Users\raven\Desktop\MS_SE_Courses_Fall2024\SE 6362\Project2\Cyberminer\backend\src\main\java\com\cyberminer\event\SearchEvent.java
+C:\Users\raven\Desktop\MS_SE_Courses_Fall2024\SE 6362\Project2\Cyberminer\backend\src\main\java\com\cyberminer\event\SearchEventListener.java
+C:\Users\raven\Desktop\MS_SE_Courses_Fall2024\SE 6362\Project2\Cyberminer\backend\src\main\java\com\cyberminer\event\SearchEventPublisher.java
+C:\Users\raven\Desktop\MS_SE_Courses_Fall2024\SE 6362\Project2\Cyberminer\backend\src\main\java\com\cyberminer\model\KeywordSearch.java
+C:\Users\raven\Desktop\MS_SE_Courses_Fall2024\SE 6362\Project2\Cyberminer\backend\src\main\java\com\cyberminer\model\URLDescriptor.java
+C:\Users\raven\Desktop\MS_SE_Courses_Fall2024\SE 6362\Project2\Cyberminer\backend\src\main\java\com\cyberminer\repository\URLRepository.java
+C:\Users\raven\Desktop\MS_SE_Courses_Fall2024\SE 6362\Project2\Cyberminer\backend\src\main\java\com\cyberminer\service\SearchService.java
+C:\Users\raven\Desktop\MS_SE_Courses_Fall2024\SE 6362\Project2\Cyberminer\backend\src\main\java\com\cyberminer\util\KWIC.java

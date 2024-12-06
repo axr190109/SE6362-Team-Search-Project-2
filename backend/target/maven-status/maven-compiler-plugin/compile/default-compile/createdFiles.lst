@@ -1,0 +1,9 @@
+com\cyberminer\service\SearchService.class
+com\cyberminer\CyberminerApplication.class
+com\cyberminer\model\KeywordSearch.class
+com\cyberminer\config\CorsConfig$1.class
+com\cyberminer\model\URLDescriptor.class
+com\cyberminer\util\KWIC.class
+com\cyberminer\repository\URLRepository.class
+com\cyberminer\config\CorsConfig.class
+com\cyberminer\controller\SearchController.class
